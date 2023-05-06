@@ -1,0 +1,5 @@
+/home/steven/Developer/umg/csharp/mayo6/clase/obj/Debug/net7.0/clase.csproj.AssemblyReference.cache
+/home/steven/Developer/umg/csharp/mayo6/clase/obj/Debug/net7.0/clase.GeneratedMSBuildEditorConfig.editorconfig
+/home/steven/Developer/umg/csharp/mayo6/clase/obj/Debug/net7.0/clase.AssemblyInfoInputs.cache
+/home/steven/Developer/umg/csharp/mayo6/clase/obj/Debug/net7.0/clase.AssemblyInfo.cs
+/home/steven/Developer/umg/csharp/mayo6/clase/obj/Debug/net7.0/clase.csproj.CoreCompileInputs.cache

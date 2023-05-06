@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8DkCKplF78O3sCMo/q0xT/0ClCPt66gBmzKVE7xkjDWegwYngWR/gr4KhdeqpxiZf3F7dMgK4SWsllmkSNAeg==",
+  "success": true,
+  "projectFilePath": "/home/steven/Developer/umg/csharp/mayo6/clase/clase.csproj",
+  "expectedPackageFiles": [
+    "/home/steven/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.5/microsoft.aspnetcore.app.ref.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
